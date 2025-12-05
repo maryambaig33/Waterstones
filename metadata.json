@@ -1,0 +1,7 @@
+{
+  "name": "Waterstones NextGen",
+  "description": "An AI-enhanced reimagining of the Waterstones bookstore experience, featuring intelligent book discovery, mood-based recommendations, and a conversational literary assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
